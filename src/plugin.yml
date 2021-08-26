@@ -1,10 +1,10 @@
 name: ${project.name}
-main: com.michaelelin.NerdFlags.NerdFlagsPlugin
+main: WTFlagsPlugin
 version: ${project.version}
 description: ${project.description}
 website: ${project.url}
 database: false
 depend: [WorldGuard, WorldEdit]
-softdepend: [ProtocolLib, WGRegionEvents]
-authors: [Dumbo52, Challenger2, Redwall_HP, bermudalocket]
-api-version: 1.13
+softdepend: [ProtocolLib]
+authors: [X_Niter]
+api-version: 1.16.5-R0.1
